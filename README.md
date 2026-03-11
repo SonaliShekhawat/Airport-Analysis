@@ -28,6 +28,15 @@ The core analysis was built in **Tableau** and includes the following dashboards
 - `Clean Data/` — Processed datasets after Power Query transformations
 - `Result/` — Tableau workbook(s) and output
 
+### 📌 Dashboard structure
+- **Longest Routes:** Identifies destinations with the highest flight distance from SFO.
+- **Day-wise Flight Count:** Tracks daily flight volume over the month.
+- **Nearest Routes:** Lists closest destinations and their flight frequencies.
+- **Overall Flight Count:** Provides a top-level view of the busiest destination routes.
+
+## 🔍 Key Findings (SFO – March 2020)
+These findings are based on the Tableau dashboard analyzing flight operations from **San Francisco International Airport (SFO)** for **March 2020**.
+
 
 
 
