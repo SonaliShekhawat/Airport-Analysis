@@ -37,6 +37,11 @@ The core analysis was built in **Tableau** and includes the following dashboards
 ## 🔍 Key Findings (SFO – March 2020)
 These findings are based on the Tableau dashboard analyzing flight operations from **San Francisco International Airport (SFO)** for **March 2020**.
 
+### 🔎 Key Insights
+- **Longest routes:** The longest flights from SFO were to international hubs such as **BLR (Bangalore)**, **SIN (Singapore)**, **DXB (Dubai)**, and **MEL (Melbourne)**. These long-haul routes recorded between ~1K to 3K flights, with BLR and SIN slightly leading.
+- **Daily volume trend:** Flight counts were relatively stable from **March 4–14** (~3.0K–3.2K flights/day), then declined sharply starting **March 19**, reaching ~2.7K by March 24 and dropping further toward month-end.
+- **Nearest routes:** The closest destinations were domestic airports including **MNH**, **RNO**, and **SBP**, with distances generally under 350 miles. **MNH** had the highest count at **17,153 flights**.
+- **Top destination routes:** **LAX** was the most frequent destination from SFO, with **7,968 flights**. Other high-volume routes included **JFK**, **SEA**, **LAS**, **ORD**, **SAN**, **PDX**, **EWR**, **SLC**, and **BOS**, each ranging from ~2.2K to ~8K flights.
 
-
+---
 
