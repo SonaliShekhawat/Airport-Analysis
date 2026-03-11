@@ -1,0 +1,22 @@
+Airport Analysis Dashboard: Executive Summary
+The provided dashboard offers a high-level analysis of operations at San Francisco International Airport (SFO), focusing on flight routes, counts, and distances for March 2020.
+The dashboard is organized into four key sections, providing insights into:
+Longest Routes: Identifies the destinations with the maximum flight distances from SFO.
+Day Wise Flight Count: Tracks the daily volume of flights over a specific period in March 2020.
+Nearest Routes: Details the closest destinations and associated flight counts.
+Flight Count (Overall): Provides a general overview of flight frequencies to various destinations.
+Key Insights by Section
+Longest Route Analysis:
+The longest routes from SFO are to international destinations such as BLR (Bangalore), SIN (Singapore), DXB (Dubai), and MEL (Melbourne).
+Flight counts for these long-haul routes generally range between 1K and 3K flights, with BLR and SIN having slightly higher counts.
+Day Wise Flight Count (March 2020):
+Flight counts remained relatively stable from March 4th to March 14th, hovering around 3.0K to 3.2K flights per day.
+A noticeable decline in flight volume began around March 19th, dropping significantly to approximately 2.7K flights by March 24th and further decreasing towards the end of the month.
+Nearest Route Analysis:
+The nearest destinations are domestic airports, including MNH, RNO, and SBP.
+Distances are significantly shorter, generally less than 350 miles.
+The flight counts for these nearest routes vary widely, with MNH showing the highest count at 17,153 flights.
+Flight Count (Overall):
+LAX (Los Angeles) is the destination with the highest overall flight count from SFO, with 7,968 flights.
+Other high-volume domestic destinations include JFK, SEA, LAS, ORD, SAN, POX, EWR, SLC, and BOS.
+Flight counts for these routes range from approximately 2.2K to 8K.
